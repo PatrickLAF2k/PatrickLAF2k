@@ -1,6 +1,6 @@
 **Olá, eu sou o Patrick, e estou dando meus primeiros passos na área de desenvolvimento, começando pelo backend. Apesar disso, tenho um grande interesse no front-end também. Quem sabe no futuro não me torne um desenvolvedor fullstack? Por ora, é isso que tenho a compartilhar. À medida que adquiro mais conhecimento, irei atualizar o meu perfil.**
 
-![Snake animation](https://github.com/PatrickLAF2k/PatrickLAF2k/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PatrickLAF2k/PatrickLAF2k/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/patricklaf2k">
