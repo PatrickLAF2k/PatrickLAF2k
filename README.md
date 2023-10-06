@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 👨🏻‍💻 Um Pouco Sobre Mim:
 
 Olá, sou o Patrick! Estou mergulhando nos estudos de programação backend e aprimorando minhas habilidades nessa área. Sempre estou em busca de novos desafios e colaborações em projetos de código aberto relacionados ao backend e à construção de sistemas. Além disso, estou em busca de ajuda e orientação de outros desenvolvedores experientes no campo do backend.
