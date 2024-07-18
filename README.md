@@ -2,11 +2,7 @@
   
 # 👨🏻‍💻 Um Pouco Sobre Mim:
 
-Olá, sou o Patrick! Estou mergulhando nos estudos de programação backend e aprimorando minhas habilidades nessa área. Sempre estou em busca de novos desafios e colaborações em projetos de código aberto relacionados ao backend e à construção de sistemas. Além disso, estou em busca de ajuda e orientação de outros desenvolvedores experientes no campo do backend.
-
-![loli_keybord](https://media.tenor.com/Tg9tl-eeOb0AAAAC/anime.gif)
-
-Sempre me mantenho atualizado com as mais recentes tecnologias e práticas no desenvolvimento de software. E, para descontrair, sou habilidoso no Dota e um grande fã de fazer doces. Adoro jogar partidas emocionantes e criar sobremesas deliciosas na cozinha. 🎮🍬
+Olá, sou o Patrick! Estou mergulhando nos estudos de programação backend e aprimorando minhas habilidades nessa área. Sempre estou em busca de novos conhecimentos e colaborações em projetos de código aberto relacionados ao backend e à construção de sistemas. Além disso, estou em busca de ajuda e orientação de outros desenvolvedores experientes no campo do backend.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/patricklaf) 
