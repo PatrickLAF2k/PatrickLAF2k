@@ -15,7 +15,4 @@ Olá, sou o Patrick! Estou mergulhando nos estudos de programação backend e ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickLAF2k&theme=highcontrast&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLAF2k&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
   <br/>
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=PatrickLAF2k&icon=0&color=12" alt="Contador de Visitas">
-  </a>
 </div>
