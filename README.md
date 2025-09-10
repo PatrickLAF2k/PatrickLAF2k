@@ -1,16 +1,45 @@
-<div align="center">
-  
 # 👨🏻‍💻 Um Pouco Sobre Mim:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/patricklaf)  
 
-Olá, sou o Patrick! Estou mergulhando nos estudos de programação backend e aprimorando minhas habilidades nessa área. Sempre estou em busca de novos conhecimentos e colaborações em projetos de código aberto relacionados ao backend e à construção de sistemas. Além disso, estou em busca de ajuda e orientação de outros desenvolvedores experientes no campo do backend.
+Sou um desenvolvedor em transição de carreira, atualmente focado em **Back-end** com **Python, Flask e PostgreSQL**.  
+Tenho conhecimentos complementares em **Node.js, Express.js, JavaScript, React e CSS/Sass**, o que me permite compreender também o desenvolvimento fullstack.
 
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/patricklaf) 
+---
 
-## 💻 Tecnologias:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+## 🎓 Formação
+- 📚 **Análise e Desenvolvimento de Sistemas** – Universidade Veiga de Almeida (2025 – 2027, previsão)  
+- 💻 **Técnico em Desenvolvimento Fullstack** – Vai na Web (2025)  
+- 🎨 **Programa BIT – Desenvolvedor Frontend** – Vai na Web (2024)  
+- 🐍 **Desenvolvimento de Software com foco em Backend** – Cubos Academy/iFood (2024)  
+
+---
+
+## 💼 Experiências
+- **Desenvolvedor Back-end Jr | Projeto “Gerencie” (2025 – atual)**  
+   - Desenvolvimento back-end com **Python e Flask**  
+   - Integração com **PostgreSQL**  
+   - Deploy em **Docker**  
+   - Colaboração em equipe no planejamento e execução de funcionalidades  
+
+---
+
+## 🌱 Atualmente
+- Aprofundando meus estudos em **sistemas back-end**  
+- Contribuindo em **projetos práticos** para consolidar experiência  
+- Aberto a **colaborações em projetos open-source**  
+
+---
+
+## 🚀 Tecnologias
+- **Linguagens & Frameworks:** Python · Flask · Node.js · Express.js · JavaScript · React · CSS/Sass  
+- **Banco de Dados:** PostgreSQL · MySQL · SQL  
+- **Ferramentas:** Git · GitHub · Docker · Scrum  
+
+---
+✨ *Sempre aprendendo, construindo e colaborando!*
 
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PatrickLAF2k&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas no GitHub"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickLAF2k&theme=highcontrast&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLAF2k&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
@@ -22,3 +51,5 @@ Olá, sou o Patrick! Estou mergulhando nos estudos de programação backend e ap
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatrickLAF2k/PatrickLAF2k/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PatrickLAF2k/PatrickLAF2k/output/pacman-contribution-graph.svg">
 </picture>
+
+
